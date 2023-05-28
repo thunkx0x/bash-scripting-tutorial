@@ -1,0 +1,44 @@
+clubs
+heart
+spades
+diamond
+royalflush
+straightflush
+fourofakind
+straight
+GNU Linux
+GNU Linux
+GNU Linux
+GNU Linux
+GNU Linux
+GNU Linux
+GNU Linux
+GNU Linux
+GNU Linux
+Microsoft Windows
+Microsoft Windows
+Microsoft Windows
+Microsoft Windows
+Microsoft Windows
+Microsoft Windows
+Microsoft Windows
+Microsoft Windows
+Microsoft Windows
+Google Android
+Google Android
+Google Android
+Google Android
+Google Android
+Google Android
+Google Android
+Google Android
+Google Android
+Apple Iphone
+Apple Iphone
+Apple Iphone
+Apple Iphone
+Apple Iphone
+Apple Iphone
+Apple Iphone
+Apple Iphone
+Apple Iphone

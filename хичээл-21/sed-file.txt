@@ -1,0 +1,3 @@
+ThIs Is GNU/Unix 8000
+ThIs Is MIcrosoft WIndows 3000
+ThIs Is Apple MAC 4000

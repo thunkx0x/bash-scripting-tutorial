@@ -1,0 +1,12 @@
+cat /etc/shells
+which bash
+cd Desktop/
+ls
+touch hello-bash-scripting.sh
+ls
+ls -al
+nano hello-bash-scripting.sh || vim hello-bash-scripting.sh
+# CTRL+L or clear
+chmod +x hello-bash-scripting.sh
+ls -al
+./hello-bash-scripting.sh
