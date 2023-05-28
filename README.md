@@ -15,46 +15,44 @@
 
 <details>
 <summary>Debian дээр clone хийх</summary>
-```sh
-sudo apt update
-sudo apt upgrade -y
-sudo apt install -y git
-git clone https://github.com/thunkx0x/bash-scripting-tutorial.git ~/
-cd ~/bash-scripting-tutorial
-ls
-cd хичээл-01
-ls                                                    
-cat *.sh | less
-```
+<ul>
+<li>sudo apt update</li>
+<li>sudo apt upgrade -y</li>
+<li>sudo apt install -y git</li>
+<li>git clone https://github.com/thunkx0x/bash-scripting-tutorial.git ~/</li>
+<li>cd ~/bash-scripting-tutorial</li>
+<li>ls</li>
+<li>cd хичээл-01</li>
+<li>ls</li>                                   <li>cat *.sh | less</li>
+</ul>
 </details>
 
 <details>
 <summary>Arch дээр clone хийх</summary>
-```sh
-sudo pacman -Syu
-sudo pacman -Sy git
-git clone https://github.com/thunkx0x/bash-scripting-t
-utorial.git ~/
-cd ~/bash-scripting-tutorial
-ls
-cd хичээл-01
-ls
-cat *.sh | less
-```
+<ul>
+<li>sudo pacman -Syu</li>
+<li>sudo pacman -Sy git</li>
+<li>git clone https://github.com/thunkx0x/bash-scripting-tutorial.git ~/</li>
+<li>cd ~/bash-scripting-tutorial</li>
+<li>ls</li>
+<li>cd хичээл-01</li>
+<li>ls</li>
+<li>cat *.sh | less</li>
+</ul>
 </details>
 
 <details>
 <summary>Termux дээр clone хийх</summary>
-```sh
-termux-setup-storage # ALLOW/Зөвшөөрөх!
-pkg update
-pkg upgrade -y
-pkg i git -y
-git clone https://github.com/thunkx0x/bash-scripting-tutorial.git ~/storage/shared
-cd ~/storage/shared/bash-scripting-tutorial
-ls
-cd хичээл-01
-ls
-cat *.sh | less
-```
+<ul>
+<li>termux-setup-storage # ALLOW/Зөвшөөрөх!</li>
+<li>pkg update</li>
+<li>pkg upgrade -y</li>
+<li>pkg i git -y</li>
+<li>git clone https://github.com/thunkx0x/bash-scripting-tutorial.git ~/storage/shared</li>
+<li>cd ~/storage/shared/bash-scripting-tutorial</li>
+<li>ls</li>
+<li>cd хичээл-01</li>
+<li>ls</li>
+<li>cat *.sh | less</li>
+</ul>
 </details>
